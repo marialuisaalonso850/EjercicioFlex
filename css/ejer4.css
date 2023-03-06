@@ -1,0 +1,10 @@
+.organize{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.im{
+    width: 400px;
+    
+  
+}

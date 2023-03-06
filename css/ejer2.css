@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+  
+    box-sizing: border-box;
+}
+
+.cubrir{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   padding: 0;
+   margin-top: 100px;
+}
+.uno{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right:  600px;
+    border: 2px solid rgb(134, 136, 138);
+    background-color: rgb(116, 116, 116);
+    margin-left: 600px;
+    height: 40px;
+    
+   
+   
+}
+button{
+    justify-content: flex-end;
+}
+.item{
+    align-items: flex-start;
+}

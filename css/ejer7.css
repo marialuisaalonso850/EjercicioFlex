@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+header{
+    background: salmon;
+    text-align: center;
+    height: 250px;
+    color: #fff;
+    line-height: 3.5rem;
+    
+}
+.nome{
+    padding-top: 75px;
+}
+
+.nome h1{
+    font-size: 50px;
+}
+.nome h6{
+    font-size: 15px;
+}
+
+.uno{
+    padding: 10px;
+    font-size: 20px;
+    height: 30px;
+    background-color: aqua;
+}
+ul li{
+    list-style-type:none;
+    margin-left: 30px;
+}
+.uno ul{
+    display: flex;
+    gap: 40px;
+}
+
+.num{
+    display: flex;
+    justify-content: flex-end;
+    width: 800px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+aside{
+    padding: 15px;
+    background: rgb(202, 202, 202);
+    width: 30%;
+    height: 175vh;
+   
+}
+
+article{
+    padding: 15px;
+    background: rgb(231, 231, 231);
+    width: 70%;
+    height: 175vh;
+    
+}
+
+.cuadrito{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(141, 141, 141);;;
+    
+}
+.cuadrov{
+    width: 880px;
+    height: 300px;
+    background-color: rgb(204, 201, 201);
+    align-items: center;
+}
+.cuadro{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(141, 141, 141);;
+    justify-content: space-evenly;
+}
+
+hr{
+    width: 880px ;
+    height: 2px;
+    background: #000;
+}
+
+
+footer{
+
+    padding-top: 40px;
+    height: 60px;
+    background: rgb(143, 143, 143);
+    font-size: 20px;
+    text-align: center;
+}
